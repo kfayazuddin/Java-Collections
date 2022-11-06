@@ -28,5 +28,7 @@ public class ArrayListBasics {
       // appending newlist into list
       list.addAll(newlist);
       System.out.println(list);
+      // to check element is present or not
+        System.out.println(list.contains(50));// print boolean
     }
 }
