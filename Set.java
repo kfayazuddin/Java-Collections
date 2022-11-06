@@ -31,7 +31,7 @@ public class Set {
         m.add(60);// only 1 time 60  we will get
         System.out.println(m);
         System.out.println(m.contains(20));
-    /*If we want to store the data in storted form 
+    /*If we want to sorted the data in storted form 
      * Then we will use TreeSet
      * It actually uses heap implementation
     */
